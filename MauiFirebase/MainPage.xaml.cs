@@ -1,4 +1,6 @@
-﻿namespace MauiFirebase;
+﻿using MauiFirebase.ViewModels;
+
+namespace MauiFirebase;
 
 public partial class MainPage : ContentPage
 {
